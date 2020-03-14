@@ -17,7 +17,7 @@ app.use(express.json());
 // =============================================================
 var characters = [
   {
-    routeName: "yodanewagain",
+    routeName: "yodanewagainnewname",
     name: "Yoda",
     role: "Jedi Master",
     age: 900,
